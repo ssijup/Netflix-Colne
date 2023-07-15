@@ -1,0 +1,44 @@
+/* .Navbar{
+    top: 0%;
+    width: 100%;
+    height: 30px;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.Logo{
+    position: fixed;
+    width: 50px;
+    left:20px
+}
+.Avathar{
+    position: fixed;
+    width: 50px;
+    right:20px ; 
+    height: 30px;   
+} */
+
+
+.Navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.Logo{
+position: fixed;
+left: 20px;
+width: 80px;
+}
+
+.Avathar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
